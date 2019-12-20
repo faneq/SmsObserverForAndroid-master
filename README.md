@@ -92,9 +92,3 @@ public class VerificationCodeSmsFilter implements SmsFilter {
     }
 }
 ```
-
-# 关于作者Robin
-* 屌丝程序员
-* GitHub: [Robin-jiangyufeng](https://github.com/Robin-jiangyufeng)
-* QQ:429257411
-* 交流QQ群 236395044
